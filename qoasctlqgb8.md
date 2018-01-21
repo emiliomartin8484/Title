@@ -1,5 +1,5 @@
 ```
-    fro 
+    for a
 ```\begin{algorithmic}[1]
 \Procedure{Proc}{$a,b$}
 \State\Return{7}
